@@ -1,0 +1,15 @@
+D:\NCKH\NewTask\DataUserManager\DataUserManager\bin\Debug\DataUserManager.exe.config
+D:\NCKH\NewTask\DataUserManager\DataUserManager\bin\Debug\DataUserManager.exe
+D:\NCKH\NewTask\DataUserManager\DataUserManager\bin\Debug\DataUserManager.pdb
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.Form1.resources
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.Properties.Resources.resources
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.csproj.GenerateResource.cache
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.csproj.CoreCompileInputs.cache
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.exe
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.pdb
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.frmOptions.resources
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.frmUserDetail.resources
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.csprojAssemblyReference.cache
+D:\NCKH\NewTask\DataUserManager\DataUserManager\bin\Debug\Newtonsoft.Json.dll
+D:\NCKH\NewTask\DataUserManager\DataUserManager\bin\Debug\Newtonsoft.Json.xml
+D:\NCKH\NewTask\DataUserManager\DataUserManager\obj\Debug\DataUserManager.csproj.CopyComplete

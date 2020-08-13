@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataUserManager", "DataUserManager\DataUserManager.csproj", "{66FD6F95-952B-4592-82B3-46AD15FF6078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FD6F95-952B-4592-82B3-46AD15FF6078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FD6F95-952B-4592-82B3-46AD15FF6078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FD6F95-952B-4592-82B3-46AD15FF6078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FD6F95-952B-4592-82B3-46AD15FF6078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50951F3B-05A6-4314-9E89-A24177BD14A8}
+	EndGlobalSection
+EndGlobal
